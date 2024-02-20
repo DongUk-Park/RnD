@@ -4,3 +4,4 @@
 1-1. MF-BPR : Bayesian Personalized Ranking based Matrix Factorization<br>
 1-2. NAIS : Neural Attentive Item Similarity Model for recommendation<br>
 2. Data Preprocess
+3. GNN
